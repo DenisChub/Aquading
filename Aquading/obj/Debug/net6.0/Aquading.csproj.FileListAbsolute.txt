@@ -1,0 +1,15 @@
+D:\Projects\Aquading\Aquading\bin\Debug\net6.0\Aquading.exe
+D:\Projects\Aquading\Aquading\bin\Debug\net6.0\Aquading.deps.json
+D:\Projects\Aquading\Aquading\bin\Debug\net6.0\Aquading.runtimeconfig.json
+D:\Projects\Aquading\Aquading\bin\Debug\net6.0\Aquading.dll
+D:\Projects\Aquading\Aquading\bin\Debug\net6.0\ref\Aquading.dll
+D:\Projects\Aquading\Aquading\bin\Debug\net6.0\Aquading.pdb
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.csproj.AssemblyReference.cache
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.AssemblyInfoInputs.cache
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.AssemblyInfo.cs
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.csproj.CoreCompileInputs.cache
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.dll
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\ref\Aquading.dll
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.pdb
+D:\Projects\Aquading\Aquading\obj\Debug\net6.0\Aquading.genruntimeconfig.cache
